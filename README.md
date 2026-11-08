@@ -27,7 +27,7 @@ I'm looking for **PhD positions (2028 entry)** and research-related roles. I'm e
 | [car_detect](https://github.com/guagua-paopao/car_detect) | Two-stage vehicle detection, then body-type and colour recognition | Moving pre- and post-processing to the GPU cut model time per frame from 22.7 ms to 8.7 ms (−62%) |
 | [chat_model_service](https://github.com/guagua-paopao/chat_model_service) | Company-document Q&A assistant built on large language models (RAG) | Answers with sources, respects permissions, and says "I don't know" when the documents don't cover a question |
 
-### Other projects (coursework, code not public)
+### Other projects (code not public)
 
 - **Fall detection with smartphone sensors**: compared 7 machine-learning models on accelerometer, gyroscope and barometer data. The best model reached 94.4% accuracy (fall F1 0.916) and runs on Android, sending an SMS with GPS location if the user doesn't respond.
 - **Audio-visual lip reading**: recognising 20 spoken names from lip video and audio. Combining both reached 91% accuracy, compared with 79% from video alone.
