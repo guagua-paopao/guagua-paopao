@@ -2,7 +2,7 @@
 
 I'm an MSc student in **Internet of Things with AI** at the **University of Bristol**. I enjoy taking computer-vision models out of the notebook and making them run fast and reliably on real camera streams.
 
-> **Looking for PhD positions (2028 entry)** in efficient on-device AI, computer vision and multimodal learning, and for research-related roles.
+> **Looking for PhD positions (2027 entry)** in efficient on-device AI, computer vision and multimodal learning, and for research-related roles.
 
 <!-- Add links here when ready, for example:
 [Email](mailto:your-address) · [CV](link-to-pdf) · [LinkedIn](link-to-profile)
