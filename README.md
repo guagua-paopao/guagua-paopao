@@ -35,8 +35,8 @@ I'm an MSc student in **Internet of Things with AI** at the **University of Bris
 
 ### Experience
 
-- **Machine-vision intern** (Apr – Jun 2026): people-flow and vehicle analytics on live RTSP camera streams, with TensorRT/CUDA GPU deployment
-- **Java development intern** (Jul – Aug 2026): a finance-reporting business system built with Vue 3, Spring Boot, MyBatis-Plus and MySQL
+- **Machine-vision intern** (May – Aug 2026): people-flow and vehicle analytics on live RTSP camera streams, with TensorRT/CUDA GPU deployment
+- **Java development intern** (Apr – Aug 2025): a finance-reporting business system built with Vue 3, Spring Boot, MyBatis-Plus and MySQL
 
 ### Tools I use
 
