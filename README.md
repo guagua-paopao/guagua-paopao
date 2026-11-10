@@ -10,18 +10,18 @@ I'm an MSc student in **Internet of Things with AI** at the **University of Bris
 
 ### Research interests, and what I've done so far
 
-- **Efficient model deployment, towards edge AI.** In [car_detect](https://github.com/guagua-paopao/car_detect), optimising the pipeline around the GPU cut full-pipeline processing time per frame from 43.8 ms to 17.9 ms (−59%) with no change in output on the frames checked, measured on an RTX 4080 laptop GPU.
-- **Computer vision on live video.** [vision_project](https://github.com/guagua-paopao/vision_project) detects and tracks people on a live RTSP stream, counts line crossings and applies pose rules, with one decoded stream shared by several tasks.
+- **Efficient model deployment, towards edge AI.** In [vehicle-type-colour-recognition](https://github.com/guagua-paopao/vehicle-type-colour-recognition), optimising the pipeline around the GPU cut full-pipeline processing time per frame from 43.8 ms to 17.9 ms (−59%) with no change in output on the frames checked, measured on an RTX 4080 laptop GPU.
+- **Computer vision on live video.** [people-flow-analysis](https://github.com/guagua-paopao/people-flow-analysis) detects and tracks people on a live RTSP stream, counts line crossings and applies pose rules, with one decoded stream shared by several tasks.
 - **Multimodal learning.** An audio-visual lip-reading project (20 spoken names, code not public) reached 91% accuracy by combining lip video and audio, compared with 79% for video alone and about 90% for audio alone.
-- **Trustworthy language-model applications (RAG).** [chat_model_service](https://github.com/guagua-paopao/chat_model_service) is an assistant for company documents, built on large language models. 
+- **Trustworthy language-model applications (RAG).** [document-qa-assistant](https://github.com/guagua-paopao/document-qa-assistant) is an assistant for company documents, built on large language models. 
 
 ### Selected projects
 
 | Project | What it is | Built with |
 |---|---|---|
-| [vision_project](https://github.com/guagua-paopao/vision_project) | Real-time people-flow analytics: tracking, line counting, electronic fence, pose rules | C++, CUDA, TensorRT, YOLO11-pose, FFmpeg, Redis |
-| [car_detect](https://github.com/guagua-paopao/car_detect) | Two-stage vehicle detection, then body-type and colour recognition | C++, CUDA, TensorRT, ONNX, PostgreSQL |
-| [chat_model_service](https://github.com/guagua-paopao/chat_model_service) | Company-document Q&A assistant built on large language models (RAG) | Python, FastAPI, Next.js, PostgreSQL + pgvector |
+| [people-flow-analysis](https://github.com/guagua-paopao/people-flow-analysis) | Real-time people-flow analytics: tracking, line counting, electronic fence, pose rules | C++, CUDA, TensorRT, YOLO11-pose, FFmpeg, Redis |
+| [vehicle-type-colour-recognition](https://github.com/guagua-paopao/vehicle-type-colour-recognition) | Two-stage vehicle detection, then body-type and colour recognition | C++, CUDA, TensorRT, ONNX, PostgreSQL |
+| [document-qa-assistant](https://github.com/guagua-paopao/document-qa-assistant) | Company-document Q&A assistant built on large language models (RAG) | Python, FastAPI, Next.js, PostgreSQL + pgvector |
 
 ### Other projects (code not public)
 
