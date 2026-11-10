@@ -1,6 +1,6 @@
 ## Hi, I'm Zichun Ai
 
-I'm an MSc student in **Internet of Things with AI** at the **University of Bristol**. I enjoy taking computer-vision models out of the notebook and making them run fast and reliably on real camera streams.
+I'm an MSc student in **Internet of Things with AI** at the **University of Bristol**.
 
 > **Looking for PhD positions (2027 entry)** in efficient on-device AI, computer vision and multimodal learning, and for research-related roles.
 
