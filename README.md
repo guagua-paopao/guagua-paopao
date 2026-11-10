@@ -11,7 +11,7 @@ I'm an MSc student in **Internet of Things with AI** at the **University of Bris
 ### Research interests, and what I've done so far
 
 - **Efficient model deployment, towards edge AI.** In [vehicle-type-colour-recognition](https://github.com/guagua-paopao/vehicle-type-colour-recognition), optimising the pipeline around the GPU cut full-pipeline processing time per frame from 43.8 ms to 17.9 ms (−59%) with no change in output on the frames checked, measured on an RTX 4080 laptop GPU.
-- **Computer vision on live video.** [people-flow-analysis](https://github.com/guagua-paopao/people-flow-analysis) detects and tracks people on a live RTSP stream, counts line crossings and applies pose rules, with one decoded stream shared by several tasks.
+- **Computer vision on live video.** [people-tracking-and-counting](https://github.com/guagua-paopao/people-tracking-and-counting) detects and tracks people on a live RTSP stream, counts line crossings and applies pose rules, with one decoded stream shared by several tasks.
 - **Multimodal learning.** An audio-visual lip-reading project (20 spoken names, code not public) reached 91% accuracy by combining lip video and audio, compared with 79% for video alone and about 90% for audio alone.
 - **Trustworthy language-model applications (RAG).** [document-qa-assistant](https://github.com/guagua-paopao/document-qa-assistant) is an assistant for company documents, built on large language models. 
 
@@ -19,7 +19,7 @@ I'm an MSc student in **Internet of Things with AI** at the **University of Bris
 
 | Project | What it is | Built with |
 |---|---|---|
-| [people-flow-analysis](https://github.com/guagua-paopao/people-flow-analysis) | Real-time people-flow analytics: tracking, line counting, electronic fence, pose rules | C++, CUDA, TensorRT, YOLO11-pose, FFmpeg, Redis |
+| [people-tracking-and-counting](https://github.com/guagua-paopao/people-tracking-and-counting) | Real-time people tracking and counting: line crossings, restricted-zone alerts, pose rules | C++, CUDA, TensorRT, YOLO11-pose, FFmpeg, Redis |
 | [vehicle-type-colour-recognition](https://github.com/guagua-paopao/vehicle-type-colour-recognition) | Two-stage vehicle detection, then body-type and colour recognition | C++, CUDA, TensorRT, ONNX, PostgreSQL |
 | [document-qa-assistant](https://github.com/guagua-paopao/document-qa-assistant) | Company-document Q&A assistant built on large language models (RAG) | Python, FastAPI, Next.js, PostgreSQL + pgvector |
 
@@ -35,7 +35,7 @@ I'm an MSc student in **Internet of Things with AI** at the **University of Bris
 
 ### Experience
 
-- **Machine-vision intern** (May – Aug 2026): people-flow and vehicle analytics on live RTSP camera streams, with TensorRT/CUDA GPU deployment
+- **Machine-vision intern** (May – Aug 2026): people tracking and vehicle analytics on live RTSP camera streams, with TensorRT/CUDA GPU deployment
 - **Java development intern** (Apr – Aug 2025): a finance-reporting business system built with Vue 3, Spring Boot, MyBatis-Plus and MySQL
 
 ### Tools I use
