@@ -26,7 +26,7 @@ I'm an MSc student in **Internet of Things with AI** at the **University of Bris
 ### Other projects (code not public)
 
 - **Fall detection with smartphone sensors**: compared 7 machine-learning models on accelerometer, gyroscope and barometer data. The best model reached 94.4% accuracy (fall F1 0.916) and runs on Android, sending an SMS with GPS location if the user doesn't respond.
-- **Scene classification**: 15 indoor and outdoor scene types. Hand-crafted features (HOG + SVM) reached 48.6%; fine-tuning ResNet-18 reached 93.1%.
+- **Scene classification**: 15 indoor and outdoor scene types. Hand-crafted features (HOG + SVM) reached 48.6% accuracy, and fine-tuning ResNet-18 raised this to 93.1%.
 
 ### Education
 
